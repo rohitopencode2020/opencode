@@ -9,6 +9,12 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<org.springframework.version>4.2.0.RELEASE</org.springframework.version>
+
+  <sonar.projectKey>rohitopencode2020_opencode</sonar.projectKey>
+  <sonar.organization>rohitopencode2020</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>02cbe16b417f41243dbf0df3cbd414c1a22e80fb</sonar.login>
+
 	</properties>
 	<dependencies>
 		<dependency>
